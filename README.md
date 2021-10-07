@@ -2,7 +2,6 @@
 121_enerjisa_bootcamp_1_homework-aleynaer created by GitHub Classroom
 
 
-# EnerjiSA&Patika Data Science and Analytics Bootcamp
 ## Homework 1
 
 Ödevler : 
